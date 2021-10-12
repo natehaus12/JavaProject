@@ -10,3 +10,9 @@ dave
 Username and Reservation Number:
 bob
 1001
+Username and Reservation Number:
+nathaniel
+4004
+Username and Reservation Number:
+jacoby
+1001

@@ -41,7 +41,7 @@ public class Airline {
                 linNum++;
                 if(line.contains("Ticket #: " + reservationNum)){ //find the reservation number
                     FileWriter writer = new FileWriter("reservations.txt", true); //initialize file
-                    writer.write("Username and Reservation Number:\n" + userName + "\n" + reservationNum); // add info to file
+                    writer.write("Username and Reservation Number:\n" + userName + "\n" + reservationNum + "\n"); // add info to file
                     writer.close();
                     System.out.println("Success!");
                 }
