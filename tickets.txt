@@ -1,0 +1,29 @@
+Ticket #: 1001
+Date: 12/1 | Departing Airport: SLC | Destination: SMC | Departure time: 9AM | Landing time: 12:30 PM
+
+Ticket #: 2002 
+Date: 12/2 | Departing Airport: SMC | Destination: SLC | Departure time: 9AM | Landing time: 10:30 AM
+
+Ticket #: 3003
+Date: 12/2 | Departing Airport: SLC | Destination: SMC | Departure time: 9AM | Landing time: 12:30 PM
+
+Ticket #: 4004
+Date: 12/3 | Departing Airport: SMC | Destination: SLC | Departure time: 9AM | Landing time: 10:30 AM
+
+Ticket #: 5005
+Date: 12/3 | Departing Airport: SLC | Destination: SMC | Departure time: 9AM | Landing time: 12:30 PM
+
+Ticket #: 6006
+Date: 12/4 | Departing Airport: SMC | Destination: SLC | Departure time: 9AM | Landing time: 10:30 AM
+
+Ticket #: 7007
+Date: 12/4 | Departing Airport: SLC | Destination: SMC | Departure time: 9AM | Landing time: 12:30 PM
+
+Ticket #: 8008
+Date: 12/5 | Departing Airport: SMC | Destination: SLC | Departure time: 9AM | Landing time: 10:30 AM
+
+Ticket #: 9009
+Date: 12/5 | Departing Airport: SLC | Destination: SMC | Departure time: 9AM | Landing time: 12:30 PM
+
+Ticket #: 1011
+Date: 12/6 | Departing Airport: SMC | Destination: SLC | Departure time: 9AM | Landing time: 10:30 AM
